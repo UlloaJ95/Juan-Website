@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"9:00 Section\"\n---\n### Juan Ulloa\n\n### October 18, 2017\n\nHeres some arithmetic\n\nArithmetic | No Arithmatic\n---------- | ---------  \nx<-3       |\ny<-4       |  \nx-sqrt(y)  |",
+    "created" : 1508333559607.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1639920531",
+    "id" : "5928AC24",
+    "lastKnownWriteTime" : 1508334314,
+    "last_content_update" : 1508334314367,
+    "path" : "C:/Users/One/Desktop/Website/Juan.Rmd",
+    "project_path" : "Juan.Rmd",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,14 @@
+---
+title: "9:00 Section"
+---
+### Juan Ulloa
+
+### October 18, 2017
+
+Heres some arithmetic
+
+Arithmetic | No Arithmatic
+---------- | ---------  
+x<-3       |
+y<-4       |  
+x-sqrt(y)  |
